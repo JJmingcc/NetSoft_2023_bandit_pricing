@@ -14,12 +14,12 @@ In this repo, it covers several different techniques to remcommend arm:
 For general bandit algorithm, it includes the two parts: exploration and exploitation. Bandit based pricing algorithm will recommend the price arm with highest expected reward.
 
 ### Results
-Please refer to results in the 'result' folder, including cumulative reward, regret and number of arm selections.
+Please refer to results in the 'result' folder, including **cumulative reward**, **regret** and **number of arm selections**.
 
 
 ## Citation and Acknowledgements
 **Bibtex.**
-If you find our code useful for your research, you can refer to our paper that considers multiple uncertainties in the problem [paper](https://ieeexplore.ieee.org/document/10175461):
+If you find our code useful for your research, please refer to more details of our [paper](https://ieeexplore.ieee.org/document/10175461):
 ```bibtex
 
 @article{cheng2023bandit,
